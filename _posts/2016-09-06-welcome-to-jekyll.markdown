@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Inspiration - Where Does it Come From?"
 date:   2016-09-06 21:01:13 -0700
-categories: jekyll update
+categories: coding inspiration
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I have been meaning to start writing a blog for a long time now. Today is finally the day. This will likely change and evolve as I get back to work on coding for fun, instead of just for work / money. For some reason, about 6-7 months ago, I stopped coding and learning new coding skills / frameworks / languages. I think it had to do with being very unhappy at my last job, and just not feeling inspired to become great at this. I do love coding though, mainly because it allows me to make things. And there is nothing I love more than making things.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Inspiration is one of life's great mysteries. Some of us feel inspired daily, by any small thing that might make us want to create. Others are constantly searching for inspiration, but finding it nowhere. And then there's those, like myself (and I would guess most of us), who are inspired by things that happen not out of a search, but as a matter of happenstance. For me, it is the decision to change my own life. This means changing some habits, which I have had for a long time, and need to be curtailed. As well, finally, for the first time since I was in high school, getting in good shape. As well, I am on a new quest to become a Masterchef worthy home cook. I freaking love food, and I find cooking to be a great stress relief. I am also lucky to be working in a job now with a great team, and great coworkers, in a very exciting environment. Needless to say, things are looking up.
 
-Jekyll also offers powerful support for code snippets:
+So this is me saying to myself, I'm back. I let myself get complacent for a while there. That is not to say I have not been improving, especially in my knowledge of the business and online marketing worlds. I just stopped making things. My 3D printer breaking probably had something to do with that. I need to fix that too.  
+
+I don't want to go too far on the first day, so I will end it here. If you happen to be reading this (probably not), then expect this thing to evolve, likely become a React project eventually, and hopefully interesting eventually as well. My goal is to get back to making rad shit, and to use this blog to document the progress. I've got the skills. I've got the drive. I've got the business knowledge (still learning). Let's do this.
+ 
+ P.S. Keeping this code snippet, just so I can reference it for later posts:
 
 {% highlight ruby %}
 def print_hi(name)
